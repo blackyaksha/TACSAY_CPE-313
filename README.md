@@ -1,7 +1,7 @@
 # TACSAY_CPE-313
 Activities for CPE 313
 
-Full Name: Tacsay, Marie Emmanuelle T.
-Section: CPE32S8
-Year Level; 3rd Year
-Program: BS CPE
+<br> Full Name: Tacsay, Marie Emmanuelle T.
+<br> Section: CPE32S8
+<br> Year Level; 3rd Year
+<br> Program: BS CPE
