@@ -1,7 +1,7 @@
 # TACSAY_CPE 313
 **Activities for CPE 313**
 
-![]((https://media.tenor.com/AP-_fSU-BFYAAAAC/aoi_clover-cat.gif](https://media.tenor.com/AP-_fSU-BFYAAAAC/aoi_clover-cat.gif))
+![GIF]((https://media.tenor.com/AP-_fSU-BFYAAAAC/aoi_clover-cat.gif))
 <br> **Full Name:** Tacsay, Marie Emmanuelle T.
 <br> **Section:** CPE32S8
 <br> **Year Level:** 3rd Year
