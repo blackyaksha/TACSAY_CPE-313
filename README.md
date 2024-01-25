@@ -1,15 +1,17 @@
-# TACSAY_CPE 313
+# WELCOME!
 **Activities for CPE 313**
 
-![GIF]((https://media.tenor.com/AP-_fSU-BFYAAAAC/aoi_clover-cat.gif))
-<br> **Full Name:** Tacsay, Marie Emmanuelle T.
+![](https://media.tenor.com/AP-_fSU-BFYAAAAC/aoi_clover-cat.gif)
+## To Start~
+**Full Name:** Tacsay, Marie Emmanuelle T.
 <br> **Section:** CPE32S8
 <br> **Year Level:** 3rd Year
 <br> **Program:** BS CPE
 <br>
 <br> *Still learning and processing information...*
 <br>
-<br> **About Me:**
+
+### About Me:
 * Gacha Game Player
   * **Honkai Star Rail:**
       - **Trailblaze Level:** 70
